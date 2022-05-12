@@ -8,8 +8,8 @@ module.exports = {
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-creative/`, // This path is subpath of your hosting https://domain/portfolio
-  heading: 'Anubhav Srivastava',
-  subHeading: 'Full time Web Developer. Part time Open source contributor  ',
+  heading: 'iEXCEL Dental app',
+  subHeading: 'iEXCEL at University of Nebraska Medical Center  ',
 
   // social
   socialLinks: [
@@ -21,20 +21,20 @@ module.exports = {
     {
       icon: 'fa-linkedin-in',
       name: 'Linkedin',
-      url: 'https://linkedin.com/in/theanubhav/',
+      url: '  ',
     },
     {
       icon: 'fa-twitter',
       name: 'Twitter',
-      url: 'https://twitter.com/onlyanubhav',
+      url: '  ',
     },
     {
       icon: 'fa-facebook-f',
       name: 'Facebook',
-      url: 'https://facebook.com/theanubhav',
+      url: '  ',
     },
   ],
-  email: 'anubhav.srivastava00@gmail.com',
+  email: '  ',
   phone: '000-00000',
-  address: '305 Del Sol, Sunnyvale, CA',
+  address: 'Omaha, Nebraska',
 };
