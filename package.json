@@ -7,8 +7,8 @@
     "url": "git+https://github.com/anubhavsrivastava/gatsby-starter-creative.git"
   },
   "author": {
-    "name": "Anubhav Srivastava",
-    "email": "anubhav.srivastava00@gmail.com"
+    "name": "Neil Humphrey",
+    "email": "nhumphrey@unmc.edu"
   },
   "dependencies": {
     "gatsby": "^4.2.0",

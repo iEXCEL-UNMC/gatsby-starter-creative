@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Gatsby Starter Creative', // <title>
+  siteTitle: 'iEXCEL Dental Application', // <title>
   manifestName: 'Creative',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
@@ -16,7 +16,7 @@ module.exports = {
     {
       icon: 'fa-github',
       name: 'Github',
-      url: 'https://github.com/anubhavsrivastava',
+      url: 'https://github.com/iEXCEL-UNMC/gatsby-starter-creative',
     },
     {
       icon: 'fa-linkedin-in',
