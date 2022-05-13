@@ -200,4 +200,4 @@ const IndexPage = () => (
   </Layout>
 );
 
-export default ExamplePage;
+export default IndexPage;
