@@ -83,7 +83,7 @@ const IndexPage = () => (
   <Layout>
     <Header />
 
-    {/* <header className="masthead">
+     <header className="masthead">
       <div className="container h-100">
         <div className="row h-100 align-items-center justify-content-center text-center">
           <div className="col-lg-10 align-self-end">
@@ -107,7 +107,7 @@ const IndexPage = () => (
           </div>
         </div>
       </div>
-    </header> */}
+    </header>
 
 
 <div class="section">
@@ -139,7 +139,7 @@ const IndexPage = () => (
     </div>
   </div>
 
-    {/* <section className="page-section bg-primary" id="about">
+   <section className="page-section bg-primary" id="about">
       <div className="container">
         <div className="row justify-content-center">
           <div className="col-lg-8 text-center">
@@ -161,9 +161,9 @@ const IndexPage = () => (
           </div>
         </div>
       </div>
-    </section> */}
+    </section>
 
-    {/* <section className="page-section" id="services">
+     <section className="page-section" id="services">
       <div className="container">
         <h2 className="text-center mt-0">At Your Service</h2>
         <hr className="divider my-4" />
@@ -206,11 +206,11 @@ const IndexPage = () => (
           </div>
         </div>
       </div>
-    </section> */}
+    </section>
 
-    {/* <section id="portfolio">
+     <section id="portfolio">
       <Gallery images={img_set} />
-    </section> */}
+    </section> 
 
     <section className="page-section bg-dark text-white">
       <div className="container text-center">
